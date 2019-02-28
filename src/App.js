@@ -9,9 +9,13 @@ class App extends Component {
  
   render() {
     return (
+<<<<<<< HEAD
       <div>
         {this.state.peopleInSpace.map(person => person.name)}
       </div>  
+=======
+
+>>>>>>> 52759925d1855b1aee894331782ed963fe9446ce
     )
   }
  
